@@ -20,8 +20,7 @@ SkyUI is essential for players using **Skyrim Special Edition or Anniversary Edi
 ## 📸 Overview
 A quick look at key parts in action:
 
-<img width="1440" height="777" alt="smartsheet-windows-app-main-dashboard-overview" src="https://github.com/user-attachments/assets/071626ce-8f87-4c8a-8e3f-d8ed1083fc28" />
-
+![skyui-inventory](https://github.com/user-attachments/assets/dd81cd5b-82e8-43e1-bd1a-b633fd08c2c4)
 
 ---
 
